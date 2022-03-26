@@ -1,1 +1,1 @@
-document.getElementById("iframeTag").src = "https://hoc5.us/zh";
+document.getElementById("iframeTag").src = "https://hoc5.us/ch/";
